@@ -1,5 +1,6 @@
 # hello-world
 test
-my name is François Chevalier
+My name is François
 I'm 21 years old
 I live in Angers
+I'm a programmer
